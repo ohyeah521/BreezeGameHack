@@ -1,0 +1,9 @@
+Package: naville.breezegame
+Name: BreezeGame Helper
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 天天酷跑辅助
+Maintainer: Naville
+Author: Naville
+Section: Tweaks
